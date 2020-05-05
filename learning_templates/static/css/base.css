@@ -1,0 +1,10 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+/*navbar baground color*/
+.bg-purple{
+    background-color: rgb(150, 47, 156);
+}
